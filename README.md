@@ -15,4 +15,4 @@ gif:<url>
 gif:<url>,<url>
 vid:<youtube-url>
 ```
-> If you are embedding content from Gfycat, use a Large GIF link.    
+> If you are embedding content from Gfycat, use a Large GIF link.
