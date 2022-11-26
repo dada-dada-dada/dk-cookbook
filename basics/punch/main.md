@@ -11,7 +11,7 @@ SpecialNStartup can be cancelled on the following frames with R, L, or Z:
 
 | Frame | Cancel |
 | :--: | :--: | 
-| 0 | No | 
+| 1 | No | 
 | 2 | No | 
 | 3 | No | 
 | 4 | No | 
@@ -20,16 +20,16 @@ SpecialNStartup can be cancelled on the following frames with R, L, or Z:
 | 7 | No | 
 | 8 | Yes | 
 
-SpecialNLoop can be cancelled on the following frames with R, L, or Z: 
+SpecialNLoop can be cancelled on the following frames with R, L, or Z. The animation will end after the current loop is finished.  
 
 | Frame | Cancel |
 | :--: | :--: | 
-| 0 | No | 
-| 2 | No | 
-| 3 | No | 
-| 4 | No | 
-| 5 | No | 
-| 6 | No | 
+| 0 | Yes | 
+| 2 | Yes | 
+| 3 | Yes | 
+| 4 | Yes | 
+| 5 | Yes | 
+| 6 | Yes | 
 | 7 | Yes | 
 | 8 | Yes | 
 | 9 | Yes | 
