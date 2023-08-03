@@ -1,4 +1,4 @@
-# 13a1 Throws
+# Throw Punishes
 
 ## cuthrow
 
@@ -6,7 +6,7 @@
 
 3-61 cuthrow > uair true combos. puff doing no di on cuthrow
 
-$\ge$ 62 cuthrow > uair does not true combo, but can sometimes still hit if they mash airdodge or dj in a way that expands their hurtbox. 
+≥ 62 cuthrow > uair does not true combo, but can sometimes still hit if they mash airdodge or dj in a way that expands their hurtbox. 
 
 
 ## dthrow
@@ -15,15 +15,11 @@ Puff DI up and in:
 
 dthrow > sh uair 0-135
 dthrow > dash > fh uair 186
-dthrow > dash > fh fair $\ge$ 156
+dthrow > dash > fh fair ≥ 156
 dthrow > dash > gupb 63 (at higher percents you need to pivot gupb)
 
 Puff DI down and away: 
 
-dthrow sets up a techchase at $<$ 129. wavesurf punch covers no tech, neutral tech, and tech in. if puff is put in the corner it can cover every tech option with the same timing. At lower percents it can be hard to cover tech in.
+dthrow sets up a techchase at < 129. wavesurf punch covers no tech, neutral tech, and tech in. if puff is put in the corner it can cover every tech option with the same timing. At lower percents it can be hard to cover tech in.
 
 dthrow > run cancel dsmash covers no tech, neutral tech, and tech in. if puff is put in the corner it can cover every tech option with the same timing. time the dsmash input just after puff lands on the ground. 
-
-Puff DI away: 
-
-it's too complicated and i am too tired for today so i will write about it later. short answer is that nothing true combos at relevant percents but there is an *
