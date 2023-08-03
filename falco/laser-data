@@ -1,0 +1,28 @@
+# 7a1 Laser Data
+
+## On Hit
+
+The amount of lag experienced by DK in frames at 0% against a fresh laser:
+
+| Action on hit       | Hitlag | Hitsun | Landing Lag | Shieldstun | Total lag |
+|:------------------- |:------ |:------ | ----------- |:---------- |:--------- |
+| shield              | 4      | 0      | 0           | 4          | 8         |
+| standing            | 4      | 9      | 0           | 0          | 13        |
+| CGLC                | 2      | 6      | 0           | 0          | 8         |
+| air > SDI down > LC | 4      | 0      | 5           | 0          | 9         |
+
+If DK does a sh and a laser hits him on his first airborne frame ASDI down is enough to LC. Every other timing requires SDI down. 
+
+## Relative Timing Windows
+
+The amount of time you have to act between lasers depends not only on the speed of the Falco, but also what direction they're moving in. 
+
+The amount of time, measured in frames, between Falco shooting sh ff lasers at different timigs and drift:
+
+| Laser timing | Falco drift                                            | Time |
+|:------------:|:------------------------------------------------------ |:----:|
+|      13      | neutral                                                |  25  |
+|      14      | 1f dash + 1f forward sh + max forward                  |  20  |
+|      15      | 2f dash back + 1f forward sh + 1f b reverse + max back |  35  |
+
+Note that, since Falco lasers move in 1 frame increments the timings might vary depending on the position of Falco relative to the opponent. 
